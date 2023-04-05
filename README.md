@@ -1,6 +1,11 @@
-# Final-Assignment
+# Final-Assignment Programming 01
+This repository contains all the raw data links needed to run.
 
-DATA: 
+# Contributer:
+Behzad Rezaei
+@bezrezaei
+
+# Data links: 
 
 GDP Statistics: directory_of_file1
 https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.PP.CD?downloadformat=csv
@@ -10,3 +15,11 @@ https://ncdrisc.org/downloads/height/NCD_RisC_eLife_2016_height_age18_countries.
 
 Food Intake: directory_of_file3
 https://ourworldindata.org/explorers/global-food?tab=chart&facet=none&hideControls=true&Food=Total&Metric=Food+available+for+consumption&Per+Capita=false&Unit=Kilocalories+per+day&country=OWID_WRL~South+America~North+America~Europe~Africa~Asia
+
+# Installing
+library.txt contains all the libraries needed for this assignment
+
+
+Run jupyter notebook
+# Licence
+Used the MIT License 
