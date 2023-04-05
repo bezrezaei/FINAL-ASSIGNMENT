@@ -1,0 +1,5 @@
+directory_of_file1: "Data/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_5354690.csv"   #GDP Per Capita
+directory_of_file2: "Data/global-food.csv"                                #Calorie Intake
+directory_of_file3: "Data/NCD_RisC_eLife_2016_height_age18_countries.csv" #Height
+directory_of_file4: "Data/"
+directory_of_file5: "Data/"
